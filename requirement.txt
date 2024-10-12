@@ -1,0 +1,5 @@
+fastapi    
+uvicorn            
+Flask
+line-bot-sdk
+requests           
